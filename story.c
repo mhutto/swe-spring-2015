@@ -209,6 +209,8 @@ edwzpdsentence2();
 //	bjt2p3_next();	
    // ifh2k6_1();
    // ifh2k6_2();
+	mmhkwc1();
+	mmhkwc2();
 
     // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

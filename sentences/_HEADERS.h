@@ -121,3 +121,5 @@ int edwzpdsentence1();
 int edwzpdsentence2();
 void scg558sentence1();
 void scg558sentence2();
+int mmhkwc1();
+int mmhkwc2();
